@@ -1,0 +1,37 @@
+.bg-image1 {
+    background-image: url('../img/02.png');
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .3);
+}
+.header-margin-bottom {
+    margin-bottom: 5rem;
+}
+
+.header-margin-top {
+    margin-top: -5rem;
+}
+
+.w-50 {
+    width: 50%;
+}
+.w-80 {
+    width: 80%;
+  }
+.w-190 {
+    width: 150%;
+  }
+
+.renk1 {
+    background-color: rgb(181, 140, 236);
+}
+.renk2 {
+    background-color: rgb(215, 121, 144);
+}
+.renk3 {
+    background-color: rgb(138, 192, 244);
+}
